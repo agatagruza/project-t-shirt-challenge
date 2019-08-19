@@ -1,6 +1,7 @@
-#This is the repo for #sg_project-t-shirt challenge
+# This is the repo for #sg_project-t-shirt challenge
 
-<ins>OVERVIEW</ins></br>
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/simpleicons.svg" /> <ins>OVERVIEW</ins></br>
 Project T-Shirt was an initiative created by fellow scholars of Secure and Provate AI Challenge organized by Udacity and Facebook.
 The goal of *Project T-shirt* was two-folded:
 1. To offer students with varying levels of AI experience an opportunity to complete a project.
