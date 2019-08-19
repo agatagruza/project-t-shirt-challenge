@@ -25,13 +25,15 @@ In summary, neural style transfer is an optimization technique used to take two 
 Neural style transfer uses three types of loss to merge the images
 content loss, style loss and total variation loss. The image is first trained to reproduce the style and then the network is trained to apply the image content. Training the model uses instance normalization than batch normalization for faster real time performance and also for aesthetically pleasing images.
 
-For our project we decided to chose this model because it provides fast results and requires less epochs to train.
+For our project we decided to chose this model because it provides fast results and requires less epochs to train.</br></br>
+
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/simpleicons.svg" /> <ins> CODE IMPLEMENTATION</ins></br>
 1) Upload two images, one for content and another for style.
 2) Take the style from one image using calculated style loss.
 3) From the content image take the content using content loss. 
-4) Merge the style with the content.
+4) Merge the style with the content.</br></br>
+
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/simpleicons.svg" /> <ins> INSTALATION</ins></br>
 In order to replicate above picture you will need to download code</br> 
@@ -39,9 +41,9 @@ In order to replicate above picture you will need to download code</br>
 ```python neural_style_transfer.py --image images/scholar.jpeg --model models/instance_norm/the_scream.t7``` </br>
 In mentioned example the Scream style model was in use.</br>
 
-Full implementation of neural style transfer os available [neural_style_transfer.py](https://github.com/agatagruza/project-t-shirt-challenge/blob/neural-style-transfer/neural_style_transfer.py)
+Full implementation of neural style transfer os available [neural_style_transfer.py](https://github.com/agatagruza/project-t-shirt-challenge/blob/neural-style-transfer/neural_style_transfer.py)</br></br>
 
-***
+
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/simpleicons.svg" /> <ins> RESOURCES</ins></br>
 :link: https://trello.com/b/ljgxuVOu/gan-t-shirt-contest </br>
 :link: https://www.youtube.com/watch?v=8_vhbNpyIk4&feature=youtu.be </br>
