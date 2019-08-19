@@ -1,11 +1,12 @@
-# This is the repo for #sg_project-t-shirt challenge
+# This is the repo for #sg_project-t-shirt challenge :shirt:
 
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/simpleicons.svg" /> <ins>OVERVIEW</ins></br>
-Project T-Shirt was an initiative created by fellow scholars of Secure and Provate AI Challenge organized by Udacity and Facebook.
-The goal of *Project T-shirt* was two-folded:
-1. To offer students with varying levels of AI experience an opportunity to complete a project.
-2. To create a souvenir of the experience.
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/simpleicons.svg" /> <ins> OVERVIEW</ins></br>
+**Project T-Shirt** is a design competition initiative created by fellow scholars of [Secure and Private AI Challenge](https://www.udacity.com/facebook-AI-scholarship) under the sponsorship of Udacity and Facebook. The main goal of Project T-shirt is:
+1.	To offer students with varying levels of AI experience an opportunity to complete a project.
+2.	To create a souvenir of the experience. Top three voted images will be featured on a popular swags such as t-shirts, mugs, hoodies, stickers and more. Later on  everyone will be able to purchase those merchants from official https://teespring.com/ website. It’s a great initiative as all proceeds go to charity. </br></br>
+Our team UNSTOPPABLE including [@agatagruza](https://github.com/agatagruza), [@amalphonse](https://github.com/amalphonse) and [@esridhar126](https://github.com/esridhar126) won the challenge.   :star2::star2::star2:
+
 
 This project uses Neural style transfer with Open CV.
 
@@ -26,3 +27,13 @@ The original neural style transfer algorithm was introduced by Gatys et al. in t
 Follow tutorial by</br>
 :link: https://www.pyimagesearch.com/2018/08/27/neural-style-transfer-with-opencv/ </br>
 :link: https://github.com/ProGamerGov/Torch-Models
+
+### **Contributors:**
+***
+:cyclone: **Agata Gruza** 
+- GitHub: [@agatagruza](https://github.com/agatagruza) 
+- Linkedin: [@agatagruza](https://www.linkedin.com/in/agatagruza/)</br>
+
+:cyclone: **Anju Mercian** 
+- GitHub: [@amalphonse](https://github.com/amalphonse)
+- Linkedin: [@amalphonse](https://www.linkedin.com/in/anjumercian/)
