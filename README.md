@@ -59,4 +59,4 @@ Full implementation of neural style transfer os available [neural_style_transfer
 - Linkedin: [@amalphonse](https://www.linkedin.com/in/anjumercian/)
 
 
-[Link to video slide show](https://youtu.be/bM6w7d9jVsw)
+:movie_camera::movie_camera::movie_camera: [Link to video slide show](https://youtu.be/bM6w7d9jVsw):movie_camera::movie_camera::movie_camera:
