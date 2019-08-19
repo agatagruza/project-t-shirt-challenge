@@ -6,7 +6,7 @@
 1.	To offer students with varying levels of AI experience an opportunity to complete a project.
 2.	To create a souvenir of the experience. Top three voted images will be featured on a popular swags such as t-shirts, mugs, hoodies, stickers and more. Later on  everyone will be able to purchase those merchants from official [TeeSpring website](https://teespring.com/ ). It’s a great initiative as all proceeds go to charity. </br></br>
 
-The bar was high and all participants worked very hard to create high quality images. Each picture was special and told unique story. Total of :three: :three: :eight: images were submitted. Our team UNSTOPPABLE including [@agatagruza](https://github.com/agatagruza), [@amalphonse](https://github.com/amalphonse) and [@esridhar126](https://github.com/esridhar126) uploaded :eight: :seven: pictures and at the end won the challenge  :star2::star2::star2: </br></br>
+The bar was high and all participants worked very hard to create high quality images. Each picture was special and told unique story. Total of :three: :three: :eight: images were submitted. Our team UNSTOPPABLE including [@agatagruza](https://github.com/agatagruza), [@amalphonse](https://github.com/amalphonse) and [@esridhar126](https://github.com/esridhar126) uploaded :eight: :seven: pictures and at the end :star2::star2::star2:  **won the challenge**  :star2::star2::star2: </br></br>
 
 :shirt: WINNING PICTURE: :shirt:
 ![WINNER](https://user-images.githubusercontent.com/7014697/63242448-42f10a80-c20c-11e9-9ab5-ab856cdb8f3c.jpg)</br>
