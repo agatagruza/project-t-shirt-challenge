@@ -50,13 +50,13 @@ Full implementation of neural style transfer os available [neural_style_transfer
 :link: https://github.com/ProGamerGov/Torch-Models </br>
 
 ### **Contributors:**
-:cyclone: **Agata Gruza** 
+:cyclone: **Agata Gruza (contribution 70%)** 
 - GitHub: [@agatagruza](https://github.com/agatagruza) 
 - Linkedin: [@agatagruza](https://www.linkedin.com/in/agatagruza/)</br>
 
-:cyclone: **Anju Mercian** 
+:cyclone: **Anju Mercian (contribution (30%)**
 - GitHub: [@amalphonse](https://github.com/amalphonse)
 - Linkedin: [@amalphonse](https://www.linkedin.com/in/anjumercian/)
 
 
-Link to slide show
+[Link to video slide show](https://youtu.be/bM6w7d9jVsw)
