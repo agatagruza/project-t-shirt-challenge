@@ -4,7 +4,7 @@
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/simpleicons.svg" /> <ins> OVERVIEW</ins></br>
 **Project T-Shirt** is a design competition initiative created by fellow scholars of [Secure and Private AI Challenge](https://www.udacity.com/facebook-AI-scholarship) under the sponsorship of Udacity and Facebook. The main goal of Project T-shirt is:
 1.	To offer students with varying levels of AI experience an opportunity to complete a project.
-2.	To create a souvenir of the experience. Top three voted images will be featured on a popular swags such as t-shirts, mugs, hoodies, stickers and more. Later on  everyone will be able to purchase those merchants from official [TeeSpring website](https://teespring.com/ ). It’s a great initiative as all proceeds go to charity. </br></br>
+2.	To create a souvenir of the experience. Top three voted images will be featured on a popular swags such as t-shirts, mugs, hoodies, stickers and more. Later on  everyone will be able to purchase those merchants from official [TeeSpring website](https://teespring.com/stores/spaic-project-t-shirt ). It’s a great initiative as all proceeds go to charity. </br></br>
 
 The bar was high and all participants worked very hard to create high quality images. Each picture was special and told unique story. Total of :three: :three: :eight: images were submitted. Our team UNSTOPPABLE including [@agatagruza](https://github.com/agatagruza), [@amalphonse](https://github.com/amalphonse) and [@esridhar126](https://github.com/esridhar126) uploaded :eight: :seven: pictures and at the end :star2::star2::star2:  **won the challenge**  :star2::star2::star2: </br></br>
 
